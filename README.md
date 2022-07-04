@@ -52,8 +52,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
 Here's why:
@@ -97,16 +95,15 @@ This is an example of how to list things you need to use the software and how to
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/HABIBKAGHAS/DDD-Prisma-TS.git
    ```
-3. Install packages with yarn
+2. Install packages with yarn
    ```sh
    yarn
    ```
-4. Enter your database url in `env file`
+3. Enter your database url in `env file`
    ```js
    DATABASE_URL = 'mysql://USERNAME:PASSWORD@HOST:PORT/DATABASE';
    ```
