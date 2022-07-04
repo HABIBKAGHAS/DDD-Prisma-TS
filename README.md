@@ -15,7 +15,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/HABIBKAGHAS/DDD-Prisma-TS">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="152" height="80">
   </a>
 </div>
 
