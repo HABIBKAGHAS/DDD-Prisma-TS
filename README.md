@@ -39,11 +39,8 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -61,7 +58,6 @@ Here's why:
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
-Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -131,7 +127,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@habib79243709](https://twitter.com/habib79243709) - habibkaghas@gmail.com
+Habib Kaghas - [@habib79243709](https://twitter.com/habib79243709) - habibkaghas@gmail.com
 
 Project Link: [https://github.com/HABIBKAGHAS/DDD-Prisma-TS](https://github.com/HABIBKAGHAS/DDD-Prisma-TS)
 
