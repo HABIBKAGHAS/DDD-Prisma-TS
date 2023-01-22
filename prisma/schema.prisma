@@ -1,9 +1,20 @@
 datasource db {
-  provider = "mysql"
   url      = env("DATABASE_URL")
+  provider = "mysql"
 }
 
 generator client {
   provider = "prisma-client-js"
 }
 
+generator class_validator {
+  provider = "prisma-class-validator-generator"
+}
+
+
+model User {
+  id        Int      @id @default(autoincrement())
+  createdAt DateTime @default(now())
+  email     String   @unique
+  name      String?
+}

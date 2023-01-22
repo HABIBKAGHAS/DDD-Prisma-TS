@@ -1,9 +1,9 @@
-import NotFoundException from "../exceptions/NotFoundException";
-import * as express from "express";
-import User from "./UserModels/User";
+import { PrismaClient } from "@prisma/client";
 
-require("../utils/utils");
-
-class BaseController {}
+// use `prisma` in your application to read and write data in your DB
+// use `prisma` in your application to read and write data in your DB
+class BaseController {
+  prisma = new PrismaClient();
+}
 
 export default BaseController;
